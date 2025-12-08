@@ -21,7 +21,7 @@ Building international-level skills to work on-site abroad as a Rust developer
 - Learning Rust fundamentals
 - Building in public
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajashekharsunkara&show_icons=true)
+[![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rajashekharsunkara&show_icons=true)](https://github.com/rajashekharsunkara)
 
 
 ---
