@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rajashekhar Sunkara 👋
 
-<!--
-**rajashekharsunkara/rajashekharsunkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Self-taught developer from Andhra Pradesh, India 🇮🇳
 
-Here are some ideas to get you started:
+Currently learning:
+- 📚 CS50x (Harvard's Computer Science)
+- 🦀 Rust Programming
+- ⛓️ Blockchain Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+Building international-level skills to work on-site abroad as a Rust developer
+
+## 📫 Connect With Me
+- Twitter: [@rajashekhar_dev](https://x.com/rajashekhar_dev)
+- Dev.to: [@rajashekharsunkara](https://dev.to/rajashekharsunkara)
+
+
+## 📊 Current Focus
+- Week 1 of CS50x
+- Learning Rust fundamentals
+- Building in public
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajashekharsunkara&show_icons=true)
+
+
+---
+*Day 1 of my journey - Let's build something amazing!*
