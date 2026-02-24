@@ -45,9 +45,9 @@ I build ML systems that ship to production. My approach: understand the math, im
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rajashekharsunkara&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/rajashekharsunkara)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajashekharsunkara&theme=tokyonight&hide_border=true)](https://github.com/rajashekharsunkara)
 
 </div>
 
