@@ -41,18 +41,6 @@ I build ML systems that ship to production. My approach: understand the math, im
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rajashekharsunkara&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/rajashekharsunkara)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajashekharsunkara&theme=tokyonight&hide_border=true)](https://github.com/rajashekharsunkara)
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 - **CS50P: Introduction to Programming with Python** — Harvard University
