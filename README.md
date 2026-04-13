@@ -39,15 +39,6 @@ I build ML systems that ship to production. My approach: understand the math, im
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
----
-
-## 🎓 Certifications
-
-- **CS50P: Introduction to Programming with Python** — Harvard University
-- **CS50AI: Introduction to Artificial Intelligence with Python** — Harvard University
-
----
-
 ## 💡 Core Competencies
 
 **Machine Learning:** Classical ML (regression, trees, SVMs) • Deep Learning (CNNs, RNNs, Transformers) • Modern AI (RAG, LLMs, agents)
